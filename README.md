@@ -11,7 +11,7 @@
 
 ### Download⚡
 
-<p>I'll add more later.</p>
+<a href="https://github.com/otenkigirlexe/IconWallpaperGenerator/archive/refs/tags/v1.0.0.zip">IconWallpaperGenerator</a>
 
 ### How to use🤗
 
