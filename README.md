@@ -25,7 +25,6 @@
 
 <p>The sample icons were obtained from the following site.</p>
 <p><a href="https://idol.st/">Idol Story : Love Live!</a></p>
-<p>https://idol.st/</p>
 <p>To the creator of the above site or the copyright holder: If there is any issue, please contact us. We will remove it immediately.</p>
 
 ### Contact📧
